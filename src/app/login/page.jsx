@@ -3,7 +3,7 @@ import React from 'react';
 const Login = () => {
     return (
         <div>
-            ss
+            <h2 className="text-3xl font-bold">Welcome to Login Page</h2>
         </div>
     );
 };
