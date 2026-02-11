@@ -3,7 +3,5 @@ import Image from "next/image";
 export default function Home() {
   return (
   <div>halo nextjs</div>
-  <div>halo nextjs</div>
-  
   );
 }
